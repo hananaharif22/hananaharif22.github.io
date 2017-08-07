@@ -14,7 +14,7 @@ The only mini fablab in malabar area.
 
 There was a very interesting introductory session on the first day of our workshop.Our trainee,Mr. Jaseel was giving us the informations about fablab and Dr. Neil,who was the father of fablab.And we got introduced to 3D printer,vinyl printer and cnc.
 
-Assignments done
+Assignments done:  
 Created account on thingiverse,instructables,grabcad and youtube.
 Created Telegram group.
 
@@ -23,5 +23,5 @@ Created Telegram group.
 
 Mr. Jaseel gave us the instructions to create a github page.Later on we were divided to two groups and my group was taught about 3D printer.That day was quit more interesting.3D printer is an awsome device and it was quit pleasing see it work.
 
-Assignments done
+Assignments done:  
 Discussed about the project to be done during the workshop.
