@@ -1,37 +1,27 @@
 ## ABOUT ME
 
-I am Hanana Hizana Harif.
+I am Hanana Hizana Harif,doing computer science btech at MESCE,kuttippuram.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### FabLab MESCE
 
-```markdown
-Syntax highlighted code block
+The only mini fablab in malabar area.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+###Training Experience
+###Day 1
 
-1. Numbered
-2. List
+There was a very interesting introductory session on the first day of our workshop.Our trainee,Mr. Jaseel was giving us the informations about fablab and Dr. Neil,who was the father of fablab.And we got introduced to 3D printer,vinyl printer and cnc.
 
-**Bold** and _Italic_ and `Code` text
+Assignments done
+Created account on thingiverse,instructables,grabcad and youtube.
+Created Telegram group.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Day 2
 
-### Jekyll Themes
+Mr. Jaseel gave us the instructions to create a github page.Later on we were divided to two groups and my group was taught about 3D printer.That day was quit more interesting.3D printer is an awsome device and it was quit pleasing see it work.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hananaharif22/hananaharif22.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Assignments done
+Discussed about the project to be done during the workshop.
