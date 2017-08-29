@@ -52,7 +52,7 @@ Created Telegram group.
 ### Thingiverse
 
 ![screenshot 22](https://user-images.githubusercontent.com/30692817/29535176-ca645292-866d-11e7-851a-84f48f9f295f.png)
-
+<img src="https://user-images.githubusercontent.com/30692817/29535176-ca645292-866d-11e7-851a-84f48f9f295f.png" alt="Smiley face" height="30" width="30">
 ### Instructables
 
 ![screenshot 21](https://user-images.githubusercontent.com/30692817/29535187-d5130012-866d-11e7-8bf6-e8c48e673f03.png)
