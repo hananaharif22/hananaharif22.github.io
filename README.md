@@ -41,7 +41,7 @@ Day 6 : Electronics Production and CNC
 
 
 ## Training Experience
-### [Day 1](https://github.com/hananaharif22/hananaharif22.github.io/day1)
+### [Day 1](https://hananaharif22.github.io/day1)
 
 There was a very interesting introductory session on the first day of our workshop.Our trainee,Mr. Jaseel was giving us the informations about fablab and Dr. Neil,who was the father of fablab.And we got introduced to 3D printer,vinyl printer and cnc.
 
