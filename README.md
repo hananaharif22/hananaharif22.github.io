@@ -1,6 +1,8 @@
-## ABOUT ME
+![cities037_01](https://user-images.githubusercontent.com/30692817/29886442-ead3be2a-8d6e-11e7-8e50-b9f2c23de535.jpg)
 
-I am Hanana Hizana Harif,pursuing a degree in Computer Science and Engineering at MESCE,kuttippuram.
+
+## [ABOUT ME] 
+I am Hanana Hizana Harif,pursuing a degree in Computer Science and Engineering at MESCE,kuttippuram.I am passionate about learning new things and I am looking forward for new innovative workshops like the one I am documenting here-The Fablab at MESCE.I am also interested in programming 
 
 
 ## FabLab MESCE
